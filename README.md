@@ -1,6 +1,6 @@
 # Batch ETL process: Filmes lançados no Brasil 
 
-![esquema-arquitetura](docs\arquitetura-1.0.png)
+![esquema-arquitetura](https://github.com/ovne/ETL_Filmes-BR-ultima-decada-TMDB-/blob/main/docs/arquitetura-1.0.png)
 
 Este projeto é um processo de ETL (Extração, Transformação e Carregamento) de dados em lote. Totalmente programado em Python, esse processo extrai dados da API do site TheMovieDatabase, utiliza a ORM SQLAlchemy para modelar em uma estrututa tabular e por fim armazena os dados em um banco relacional MySQL e salva uma copia bruta dos dados localmente.
 
