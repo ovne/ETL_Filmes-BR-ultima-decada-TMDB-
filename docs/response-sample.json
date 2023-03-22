@@ -1,0 +1,399 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 646385,
+            "original_language": "en",
+            "original_title": "Scream",
+            "overview": "Vinte e cinco anos após uma série de crimes brutais chocar a tranquila Woodsboro, um novo assassino se apropria da máscara de Ghostface e começa a perseguir um grupo de adolescentes para trazer à tona segredos do passado mortal da cidade.",
+            "popularity": 420.94,
+            "poster_path": "/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg",
+            "release_date": "2022-01-13",
+            "title": "Pânico",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 2175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 985939,
+            "original_language": "en",
+            "original_title": "Fall",
+            "overview": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.",
+            "popularity": 478.328,
+            "poster_path": "/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
+            "release_date": "2022-09-29",
+            "title": "A Queda",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jhi3K0rN46SSu9wEu6zYVCOeVtH.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "id": 1003580,
+            "original_language": "en",
+            "original_title": "Legion of Super-Heroes",
+            "overview": "Kara está devastada pela perda de Krypton e luta para se ajustar à sua nova vida na Terra. Seu primo, Superman, a orienta e sugere que ela deixe seu espaço-tempo para frequentar a Academia da Legião no século 31, onde ela faz novos amigos e um novo inimigo: Brainiac 5.",
+            "popularity": 420.156,
+            "poster_path": "/fRHNCety8AHB38OUTBKSfg5fKcY.jpg",
+            "release_date": "2023-02-23",
+            "title": "Legião dos Super-Heróis",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94kQGMiFbs5MUTlt7kj9dewsMDi.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 676547,
+            "original_language": "en",
+            "original_title": "Prey for the Devil",
+            "overview": "Irmã Ann é uma inquieta de 25 anos que acredita devotamente que realizar exorcismos é sua vocação. Mas ela está em desacordo com as tradições da instituição: freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que percebe seu dom especial, ela pode observar sessões de treinamento reais. Seu desejo de provar a si mesma toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a Irmã Ann fica cara a cara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes são plenamente realizadas.",
+            "popularity": 395.436,
+            "poster_path": "/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg",
+            "release_date": "2022-10-27",
+            "title": "A Luz do Demônio",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+            "genre_ids": [
+                14,
+                28,
+                35
+            ],
+            "id": 616037,
+            "original_language": "en",
+            "original_title": "Thor: Love and Thunder",
+            "overview": "Thor parte em uma jornada de autodescoberta, diferente de tudo que ele já enfrentou. Mas seus esforços são interrompidos por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater esta ameaça, Thor pede a ajuda da Rei Valquíria, Korg e da ex-namorada Jane Foster, que, para a surpresa de Thor, inexplicavelmente empunha seu mágico martelo, Mjolnir, como a Poderosa Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do Carniceiro dos Deuses e detê-lo antes que seja tarde demais.",
+            "popularity": 378.818,
+            "poster_path": "/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
+            "release_date": "2022-07-08",
+            "title": "Thor: Amor e Trovão",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 5573
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5pMy5LF2JAleBNBtuzizfCMWM7k.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 653851,
+            "original_language": "en",
+            "original_title": "Devotion",
+            "overview": "A história real dos pilotos estadunidenses Jesse Brown e Tom Hudner, dois jovens de mundos muito diferentes. Os dois iniciaram a carreira militar juntos no VF-32 e ao longo do serviço eles são levados ao limite, voando em um jato de combate. Jesse e Tom se tornam amigos e começam a superar cada vez mais desafios lado a lado, mas tudo muda quando um deles é abatido atrás das linhas inimigas.",
+            "popularity": 386.274,
+            "poster_path": "/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg",
+            "release_date": "2022-12-08",
+            "title": "Irmãos de Honra",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9j0V8Fw5u4cv9cESUXUmTGmpXU5.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35
+            ],
+            "id": 1058732,
+            "original_language": "en",
+            "original_title": "The Simpsons Meet the Bocellis in Feliz Navidad",
+            "overview": "Neste Natal, Homer surpreende Marge com um presente incrível: uma performance inesquecível do tenor italiano Andrea Bocelli e de seus filhos Matteo e Virginia.",
+            "popularity": 385.251,
+            "poster_path": "/pYPTCKsxIBwYjiywGEcGPnpS70n.jpg",
+            "release_date": "2022-12-15",
+            "title": "Os Simpsons Encontram os Bocellis em Feliz Navidad",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8H2O044M0xp240emFWAXjZsfLLx.jpg",
+            "genre_ids": [
+                53,
+                878,
+                28
+            ],
+            "id": 700391,
+            "original_language": "en",
+            "original_title": "65",
+            "overview": "Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.",
+            "popularity": 396.596,
+            "poster_path": "/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg",
+            "release_date": "2023-03-09",
+            "title": "65: Ameaça Pré-Histórica",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+            "genre_ids": [
+                28,
+                53,
+                18
+            ],
+            "id": 846433,
+            "original_language": "es",
+            "original_title": "The Enforcer",
+            "overview": "Um executor tem que sacrificar tudo para salvar uma jovem que ele fez amizade de sua chefe femme fatale que está envolvido no tráfico de cibersexo.",
+            "popularity": 354.777,
+            "poster_path": "/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg",
+            "release_date": "2023-01-11",
+            "title": "O Assassino Perfeito",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 361743,
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
+            "popularity": 356.599,
+            "poster_path": "/jeGvNOVMs5QIU1VaoGvnd3gSv0G.jpg",
+            "release_date": "2022-05-26",
+            "title": "Top Gun: Maverick",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 6335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tsjXBo4LmzV0Bb9hdrz25tzX5GD.jpg",
+            "genre_ids": [
+                10402
+            ],
+            "id": 1041513,
+            "original_language": "en",
+            "original_title": "Encanto at the Hollywood Bowl",
+            "overview": "Entre na Casa Madrigal com as vozes originais de \"Encanto\", da Disney Animations. Stephanie Beatriz, Adassa, Carolina Gaitán, Jessica Darrow, Diane Guerrero, Mauro Castillo, Angie Cepeda, Olga Merediz, e a superestrela colombiana Carlos Vives, se reúnem em um espetáculo musical que celebra o fenômeno global.",
+            "popularity": 368.603,
+            "poster_path": "/kWoWvS7qQpgRUe6op45a1FbkO8g.jpg",
+            "release_date": "2022-12-28",
+            "title": "Encanto no Hollywood Bowl",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+            "popularity": 347.212,
+            "poster_path": "/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+            "release_date": "2021-12-16",
+            "title": "Homem-Aranha: Sem Volta Para Casa",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 16965
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cRdA9xjHBbobw4LJFsQ3j1CgpVq.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 663712,
+            "original_language": "en",
+            "original_title": "Terrifier 2",
+            "overview": "Terrifier 2 se passa um ano depois do primeiro filme. Acordando no necrotério após seu massacre na noite de Halloween do ano passado, Art the Clown (David Howard Thornton) está de volta no tempo para o Dia da Reforma! Desta vez, ele está de olho na jovem Sienna (Lauren LaVera) e seu irmão mais novo, Jonathan (Elliott Fullam). Porque é Halloween mais uma vez e a sede de assassinato do sinistro malabarista deve ser satisfeita.  A fantasia caseira de Halloween de Sienna e sua trágica história familiar têm uma conexão misteriosa com os assassinatos que o homem de pesadelo com a fantasia de palhaço cometerá novamente naquela noite.",
+            "popularity": 327.116,
+            "poster_path": "/spkkTYZq38iyapjMy3CsxU5jK3s.jpg",
+            "release_date": "2022-12-29",
+            "title": "Terrifier 2",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1069
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7phcGGiYRrEQDHWB0cBwgtt3dkY.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 810693,
+            "original_language": "ja",
+            "original_title": "劇場版 呪術廻戦 0",
+            "overview": "O jovem Yuta Okkotsu ganha o controle de um espírito extremamente poderoso, então um grupo de feiticeiros o matriculam na Tokyo Prefectural Jujutsu High School, para ajudá-lo a controlar esse poder e também para ficar de olho nele.",
+            "popularity": 324.86,
+            "poster_path": "/m8nyqnn2K7WzxcAKzCxPxuX7Yd1.jpg",
+            "release_date": "2022-04-28",
+            "title": "Jujutsu Kaisen 0: O Filme",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 855
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 724495,
+            "original_language": "en",
+            "original_title": "The Woman King",
+            "overview": "Nanisca era a comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres, entre as guerreiras está a filha de Nanisca, Nawi, juntas elas combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras.",
+            "popularity": 318.527,
+            "poster_path": "/dTXXXMwZ30LVf51nJvh2QGKPIY6.jpg",
+            "release_date": "2022-09-22",
+            "title": "A Mulher Rei",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80,
+                53
+            ],
+            "id": 899112,
+            "original_language": "en",
+            "original_title": "Violent Night",
+            "overview": "Uma equipe de elite de mercenários invade um complexo familiar na véspera de Natal, deixando todos reféns. No entanto, eles não estão preparados para um combatente surpresa: Papai Noel está no local.",
+            "popularity": 338.968,
+            "poster_path": "/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg",
+            "release_date": "2022-12-01",
+            "title": "Noite Infeliz",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hT9ZUwLN5tB2O7miBu1oIMJFqJT.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 507086,
+            "original_language": "en",
+            "original_title": "Jurassic World Dominion",
+            "overview": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.",
+            "popularity": 301.445,
+            "poster_path": "/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+            "release_date": "2022-06-02",
+            "title": "Jurassic World: Domínio",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 4562
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 615777,
+            "original_language": "en",
+            "original_title": "Babylon",
+            "overview": "Durante a era de ouro de Hollywood, em Los Angeles da década de 1920, um jovem latino está determinado a conseguir uma carreira enquanto o cinema entra em fase de transição dos filmes mudos para produções com falas.",
+            "popularity": 273.855,
+            "poster_path": "/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg",
+            "release_date": "2023-01-19",
+            "title": "Babilônia",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1381
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uR0FopHrAjDlG5q6PZB07a1JOva.jpg",
+            "genre_ids": [
+                16,
+                878,
+                28
+            ],
+            "id": 610150,
+            "original_language": "ja",
+            "original_title": "ドラゴンボール超 スーパーヒーロー",
+            "overview": "O exército Red Ribbon havia sido destruído por Son Goku... Mas certos indivíduos decidiram levar adiante sua missão e criaram os androides supremos: Gamma 1 e Gamma 2. Estes dois androides - que se intitulam \"super-heróis\" - decidem atacar Piccolo e Gohan! Qual será o objetivo do Novo Exército Red Ribbon? Quando o perigo é iminente, é então que desperta o Super-Herói!",
+            "popularity": 282.083,
+            "poster_path": "/FiqBRypTDyHzqcxdbpPb3ddFep.jpg",
+            "release_date": "2022-08-18",
+            "title": "Dragon Ball Super: Super Hero",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 2305
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+            "genre_ids": [
+                53,
+                28,
+                878
+            ],
+            "id": 766507,
+            "original_language": "en",
+            "original_title": "Prey",
+            "overview": "Ambientado no mundo da Nação Comanche no início de 1700, \"O Predador: A Caçada\" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.",
+            "popularity": 267.035,
+            "poster_path": "/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg",
+            "release_date": "2022-08-05",
+            "title": "O Predador: A Caçada",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 5277
+        }
+    ],
+    "total_pages": 141,
+    "total_results": 2804
+}
